@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# 🔔Datamine notifications:
+# 🔔Datamine notifications
 
 An easy to use bot that comes with everything to be up to date with discord features!
 
