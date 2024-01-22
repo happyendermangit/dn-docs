@@ -1,17 +1,11 @@
-endi:
-  name: Endilie Yacop Sucipto
-  title: Maintainer of Docusaurus
-  url: https://github.com/endiliey
-  image_url: https://github.com/endiliey.png
+happyenderman:
+  name: Happy enderman
+  title: Maintainer of Datamine notifications
+  url: https://github.com/happyendermangit
+  image_url: /img/happyenderman.png
 
-yangshun:
-  name: Yangshun Tay
-  title: Front End Engineer @ Facebook
-  url: https://github.com/yangshun
-  image_url: https://github.com/yangshun.png
-
-slorber:
-  name: Sébastien Lorber
-  title: Docusaurus maintainer
-  url: https://sebastienlorber.com
-  image_url: https://github.com/slorber.png
+serstars:
+  name: SerStars
+  title: Desinger & helper
+  url: https://github.com/serstars
+  image_url: /img/serstars.png

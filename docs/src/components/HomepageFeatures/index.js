@@ -8,28 +8,29 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Datamine notifications bot was designed to be easy to use and
+        makes datamining discord easier!.
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
+    title: 'Always be up-to-date with discord leaks!',
     Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Datamine notifications will do the job for you! it will automaticly notify 
+        you whenever an update has been posted by dataminers and send it to the correct <code>channel</code>.
       </>
     ),
   },
   {
-    title: 'Powered by React',
+    title: 'The future of discord datamining',
     Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Datamine notifications is the future of discord datamining as it provides 
+        an easy to use system, and the bot also contains 4+ repository&apos;s with different bots/users posting
+        updates
       </>
     ),
   },
